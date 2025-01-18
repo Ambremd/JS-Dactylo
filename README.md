@@ -1,4 +1,4 @@
-# 📍 Dactylo
+# 🖊️ Dactylo
 
 ## 📝 Description  
 Ce projet a été réalisé dans le cadre d'un cours de Développement front, en première année de bachelor. L'objectif principal était de créer un jeu de dactylographie pour améliorer la vitesse et la précision de frappe au clavier grâce à une application qui permet : - de tester sa vitesse de frappe (MPM = mots par minute) - de tester sa précision de frappe (pourcentage de fautes) - de s'éveiller au clavier (doigt à utiliser pour chaque touche)
